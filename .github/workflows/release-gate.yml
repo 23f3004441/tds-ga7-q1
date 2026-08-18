@@ -11,7 +11,7 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: TDS identity: 23f3004441@ds.study.iitm.ac.in
+      - name: "TDS identity: 23f3004441@ds.study.iitm.ac.in"
         run: echo "23f3004441@ds.study.iitm.ac.in"
 
       - name: Checkout
